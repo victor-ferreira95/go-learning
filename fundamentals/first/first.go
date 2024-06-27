@@ -10,9 +10,6 @@ import "fmt"
 
 // a função main é a entrada do programa Go 
 func main(){
-	fmt.Println("Hello World")
-}
-func main(){
 	fmt.Print("Primeiro")
 	fmt.Print("Programa")
 }
