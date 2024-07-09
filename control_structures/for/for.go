@@ -32,4 +32,6 @@ func main() {
 		fmt.Println("Laço infinito...")
 		time.Sleep(time.Second) // pausa de 1 segundo
 	}
+
+	// veremos o foreach
 }
